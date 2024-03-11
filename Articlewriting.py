@@ -1,7 +1,7 @@
 from openai import OpenAI
 import streamlit as st
  
-clt = OpenAI(api_key="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")
+clt = OpenAI(api_key="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")
  
 def main():
   st.title("Article Writer")
